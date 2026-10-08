@@ -1,0 +1,1199 @@
+Dropout_ID,Student_ID,Dropout_Date,Dropout_Reason,Refund_Amount,Exit_Type
+D00001,S10217,2025-05-19,Low Attendance,25000,Transfer
+D00002,S19640,2025-08-25,Relocation,5000,Institutional
+D00003,S14153,2025-05-17,Personal Reasons,25000,Voluntary
+D00004,S12499,2026-07-02,Academic Difficulty,0,Institutional
+D00005,S06019,2026-07-19,Relocation,5000,Voluntary
+D00006,S06254,2026-05-30,Relocation,5000,Institutional
+D00007,S05640,2025-07-14,Low Attendance,0,Transfer
+D00008,S17187,2025-04-22,Health,25000,Voluntary
+D00009,S18235,2024-07-28,Health,25000,Transfer
+D00010,S03595,2026-03-19,Health,10000,Transfer
+D00011,S14656,2026-04-19,Low Attendance,10000,Transfer
+D00012,S16891,2024-11-23,Personal Reasons,5000,Institutional
+D00013,S05795,2025-03-08,Financial Issues,0,Transfer
+D00014,S10404,2024-08-10,Low Attendance,0,Transfer
+D00015,S19771,2025-04-03,Personal Reasons,5000,Institutional
+D00016,S15199,2025-08-16,Personal Reasons,5000,Transfer
+D00017,S09821,2025-05-09,Low Attendance,0,Institutional
+D00018,S06034,2024-11-26,Low Attendance,10000,Institutional
+D00019,S02288,2026-07-23,Health,0,Institutional
+D00020,S00095,2025-01-01,Relocation,15000,Voluntary
+D00021,S10100,2025-08-17,Low Attendance,25000,Institutional
+D00022,S06803,2026-06-06,Low Attendance,25000,Transfer
+D00023,S04736,2026-09-02,Financial Issues,0,Institutional
+D00024,S02325,2026-03-17,Academic Difficulty,10000,Transfer
+D00025,S11493,2024-10-23,Personal Reasons,15000,Voluntary
+D00026,S09301,2026-03-11,Health,15000,Transfer
+D00027,S07917,2026-01-14,Personal Reasons,15000,Transfer
+D00028,S10626,2024-07-08,Health,10000,Institutional
+D00029,S03683,2025-07-26,Low Attendance,5000,Institutional
+D00030,S16826,2026-04-18,Academic Difficulty,10000,Transfer
+D00031,S07580,2026-03-23,Academic Difficulty,5000,Transfer
+D00032,S00111,2024-10-04,Financial Issues,10000,Transfer
+D00033,S06758,2026-07-17,Academic Difficulty,0,Institutional
+D00034,S00741,2025-02-04,Personal Reasons,5000,Voluntary
+D00035,S03484,2025-05-04,Personal Reasons,10000,Transfer
+D00036,S02025,2026-01-01,Low Attendance,15000,Voluntary
+D00037,S01256,2025-09-08,Health,10000,Institutional
+D00038,S11744,2026-01-13,Relocation,5000,Institutional
+D00039,S08070,2024-12-13,Low Attendance,25000,Transfer
+D00040,S12943,2025-09-03,Financial Issues,15000,Voluntary
+D00041,S07574,2025-09-29,Academic Difficulty,0,Institutional
+D00042,S07282,2024-12-06,Health,0,Voluntary
+D00043,S19302,2024-06-15,Health,25000,Institutional
+D00044,S11644,2026-07-26,Relocation,25000,Transfer
+D00045,S01788,2024-10-03,Relocation,25000,Transfer
+D00046,S16831,2025-12-28,Health,5000,Institutional
+D00047,S02620,2025-07-20,Health,10000,Institutional
+D00048,S03784,2025-10-22,Relocation,0,Voluntary
+D00049,S16379,2026-02-27,Academic Difficulty,0,Institutional
+D00050,S05357,2024-08-16,Personal Reasons,10000,Voluntary
+D00051,S10592,2025-03-27,Health,10000,Transfer
+D00052,S19854,2025-04-10,Financial Issues,5000,Transfer
+D00053,S15100,2025-04-27,Academic Difficulty,25000,Transfer
+D00054,S11380,2025-01-08,Personal Reasons,10000,Voluntary
+D00055,S19322,2026-07-07,Low Attendance,0,Voluntary
+D00056,S05501,2026-09-07,Low Attendance,15000,Voluntary
+D00057,S05853,2025-12-20,Low Attendance,0,Transfer
+D00058,S08371,2025-01-17,Health,5000,Transfer
+D00059,S15158,2025-01-31,Relocation,0,Voluntary
+D00060,S12116,2025-02-05,Financial Issues,0,Institutional
+D00061,S14444,2025-02-08,Personal Reasons,0,Transfer
+D00062,S01791,2025-01-10,Financial Issues,5000,Voluntary
+D00063,S18152,2026-04-22,Health,15000,Voluntary
+D00064,S14967,2026-07-05,Academic Difficulty,10000,Voluntary
+D00065,S10385,2024-11-25,Health,0,Institutional
+D00066,S01468,2024-07-06,Relocation,15000,Institutional
+D00067,S02101,2025-07-19,Academic Difficulty,25000,Institutional
+D00068,S06640,2026-09-26,Personal Reasons,10000,Transfer
+D00069,S10491,2026-02-19,Relocation,25000,Institutional
+D00070,S02535,2026-01-16,Academic Difficulty,25000,Voluntary
+D00071,S02982,2024-08-26,Academic Difficulty,15000,Institutional
+D00072,S14952,2024-11-06,Financial Issues,0,Institutional
+D00073,S14887,2026-02-23,Personal Reasons,10000,Institutional
+D00074,S00367,2025-03-12,Financial Issues,5000,Voluntary
+D00075,S19986,2025-07-04,Low Attendance,5000,Voluntary
+D00076,S15664,2026-01-08,Health,0,Voluntary
+D00077,S08303,2026-01-17,Financial Issues,25000,Voluntary
+D00078,S19556,2025-05-19,Health,15000,Voluntary
+D00079,S08874,2026-01-16,Financial Issues,15000,Voluntary
+D00080,S00070,2024-06-12,Personal Reasons,15000,Transfer
+D00081,S13099,2026-07-01,Relocation,15000,Voluntary
+D00082,S13945,2025-03-15,Relocation,5000,Voluntary
+D00083,S11824,2024-10-25,Low Attendance,15000,Voluntary
+D00084,S16328,2024-08-16,Relocation,5000,Institutional
+D00085,S05871,2025-09-01,Health,5000,Institutional
+D00086,S11958,2025-05-13,Health,15000,Institutional
+D00087,S09353,2026-08-01,Financial Issues,25000,Institutional
+D00088,S07851,2025-12-16,Financial Issues,25000,Transfer
+D00089,S14823,2024-09-24,Financial Issues,25000,Voluntary
+D00090,S03932,2025-03-07,Low Attendance,5000,Transfer
+D00091,S03124,2026-03-04,Academic Difficulty,25000,Voluntary
+D00092,S02589,2025-02-19,Personal Reasons,25000,Voluntary
+D00093,S10082,2025-06-26,Financial Issues,5000,Voluntary
+D00094,S07646,2026-02-05,Personal Reasons,25000,Institutional
+D00095,S10948,2026-02-21,Relocation,25000,Voluntary
+D00096,S19103,2026-04-12,Academic Difficulty,0,Transfer
+D00097,S11879,2025-07-18,Health,15000,Transfer
+D00098,S16302,2025-04-11,Academic Difficulty,0,Transfer
+D00099,S15487,2024-06-22,Academic Difficulty,15000,Voluntary
+D00100,S19539,2025-12-16,Academic Difficulty,10000,Transfer
+D00101,S00424,2024-09-12,Health,25000,Transfer
+D00102,S06883,2024-07-28,Low Attendance,25000,Transfer
+D00103,S00691,2025-06-03,Academic Difficulty,25000,Transfer
+D00104,S18001,2025-02-12,Low Attendance,5000,Transfer
+D00105,S00148,2025-12-08,Relocation,5000,Transfer
+D00106,S12899,2026-09-03,Academic Difficulty,0,Voluntary
+D00107,S16376,2025-04-07,Academic Difficulty,0,Voluntary
+D00108,S12896,2025-08-30,Financial Issues,10000,Institutional
+D00109,S06884,2025-04-02,Financial Issues,5000,Institutional
+D00110,S00033,2026-05-02,Financial Issues,10000,Transfer
+D00111,S02270,2026-05-20,Health,0,Voluntary
+D00112,S14395,2025-01-16,Low Attendance,0,Institutional
+D00113,S02882,2025-08-31,Health,0,Transfer
+D00114,S18080,2024-09-06,Personal Reasons,0,Institutional
+D00115,S16314,2026-08-05,Low Attendance,5000,Transfer
+D00116,S17901,2024-06-06,Low Attendance,0,Transfer
+D00117,S05410,2025-12-14,Academic Difficulty,5000,Voluntary
+D00118,S01346,2024-12-06,Academic Difficulty,0,Transfer
+D00119,S09433,2026-05-18,Personal Reasons,25000,Institutional
+D00120,S08980,2025-02-11,Relocation,25000,Voluntary
+D00121,S07145,2025-08-24,Academic Difficulty,15000,Transfer
+D00122,S02926,2025-05-31,Academic Difficulty,10000,Voluntary
+D00123,S07341,2025-12-20,Health,15000,Institutional
+D00124,S03406,2026-07-25,Low Attendance,10000,Transfer
+D00125,S09820,2025-07-30,Academic Difficulty,5000,Institutional
+D00126,S08367,2024-12-23,Personal Reasons,5000,Institutional
+D00127,S09403,2026-07-15,Low Attendance,25000,Transfer
+D00128,S09531,2026-09-23,Academic Difficulty,25000,Voluntary
+D00129,S08348,2025-10-18,Academic Difficulty,0,Voluntary
+D00130,S16360,2026-05-03,Low Attendance,10000,Institutional
+D00131,S03520,2026-09-01,Low Attendance,5000,Institutional
+D00132,S18263,2025-11-05,Financial Issues,25000,Voluntary
+D00133,S19111,2025-02-22,Health,25000,Transfer
+D00134,S06949,2026-04-14,Low Attendance,25000,Voluntary
+D00135,S01061,2025-03-23,Academic Difficulty,5000,Institutional
+D00136,S17275,2024-12-02,Low Attendance,5000,Institutional
+D00137,S08177,2025-09-11,Academic Difficulty,15000,Transfer
+D00138,S16466,2025-08-21,Low Attendance,15000,Voluntary
+D00139,S05359,2026-04-03,Low Attendance,5000,Voluntary
+D00140,S05950,2024-10-10,Low Attendance,0,Institutional
+D00141,S04905,2025-09-14,Academic Difficulty,10000,Voluntary
+D00142,S10829,2026-09-03,Health,25000,Voluntary
+D00143,S07991,2025-05-26,Financial Issues,15000,Transfer
+D00144,S07617,2025-01-13,Relocation,5000,Voluntary
+D00145,S04203,2025-05-21,Financial Issues,25000,Voluntary
+D00146,S00359,2025-01-14,Academic Difficulty,15000,Voluntary
+D00147,S06819,2025-11-10,Relocation,0,Transfer
+D00148,S04523,2025-09-18,Relocation,0,Institutional
+D00149,S11785,2024-11-24,Academic Difficulty,25000,Transfer
+D00150,S08889,2025-07-27,Personal Reasons,15000,Institutional
+D00151,S08010,2025-03-14,Personal Reasons,10000,Institutional
+D00152,S05296,2026-04-25,Personal Reasons,5000,Voluntary
+D00153,S10370,2026-05-04,Health,10000,Transfer
+D00154,S00746,2024-06-30,Low Attendance,15000,Transfer
+D00155,S16871,2025-09-25,Academic Difficulty,15000,Transfer
+D00156,S18796,2025-04-27,Health,5000,Voluntary
+D00157,S13544,2025-07-07,Personal Reasons,25000,Transfer
+D00158,S03479,2026-04-28,Financial Issues,5000,Transfer
+D00159,S18570,2025-08-12,Health,10000,Voluntary
+D00160,S06111,2024-10-19,Relocation,0,Transfer
+D00161,S00230,2024-06-12,Academic Difficulty,0,Transfer
+D00162,S16593,2025-01-08,Personal Reasons,25000,Institutional
+D00163,S12427,2024-08-29,Academic Difficulty,5000,Voluntary
+D00164,S15566,2025-02-27,Relocation,10000,Transfer
+D00165,S10467,2024-08-15,Relocation,0,Voluntary
+D00166,S07712,2024-08-17,Personal Reasons,10000,Transfer
+D00167,S07631,2025-05-01,Personal Reasons,5000,Voluntary
+D00168,S05331,2026-05-24,Low Attendance,15000,Voluntary
+D00169,S15435,2026-03-31,Financial Issues,25000,Institutional
+D00170,S05147,2026-05-28,Health,0,Voluntary
+D00171,S06788,2024-08-29,Financial Issues,15000,Voluntary
+D00172,S00884,2025-01-09,Low Attendance,5000,Voluntary
+D00173,S00073,2026-05-31,Low Attendance,0,Transfer
+D00174,S05869,2025-05-03,Academic Difficulty,25000,Institutional
+D00175,S12664,2026-06-14,Personal Reasons,5000,Voluntary
+D00176,S12500,2026-06-07,Academic Difficulty,0,Voluntary
+D00177,S00522,2026-09-02,Personal Reasons,5000,Transfer
+D00178,S12823,2024-06-29,Financial Issues,0,Transfer
+D00179,S16617,2025-01-27,Health,0,Institutional
+D00180,S18030,2026-03-28,Relocation,15000,Voluntary
+D00181,S03252,2025-09-15,Health,25000,Institutional
+D00182,S15704,2026-01-22,Academic Difficulty,5000,Voluntary
+D00183,S01889,2025-03-14,Financial Issues,0,Institutional
+D00184,S05082,2025-01-06,Relocation,10000,Voluntary
+D00185,S17209,2025-02-14,Relocation,25000,Transfer
+D00186,S05293,2025-07-12,Health,5000,Institutional
+D00187,S06136,2026-02-17,Relocation,25000,Transfer
+D00188,S06921,2026-04-10,Financial Issues,5000,Voluntary
+D00189,S04724,2024-08-31,Academic Difficulty,15000,Voluntary
+D00190,S05122,2026-01-07,Relocation,10000,Voluntary
+D00191,S03348,2026-03-16,Financial Issues,25000,Transfer
+D00192,S03604,2024-08-26,Financial Issues,5000,Institutional
+D00193,S03783,2025-07-17,Academic Difficulty,15000,Institutional
+D00194,S09441,2026-08-04,Relocation,5000,Voluntary
+D00195,S10052,2026-06-01,Low Attendance,10000,Institutional
+D00196,S01254,2025-12-24,Personal Reasons,25000,Institutional
+D00197,S01222,2026-07-07,Relocation,10000,Institutional
+D00198,S15976,2026-09-22,Personal Reasons,15000,Voluntary
+D00199,S09655,2024-07-30,Relocation,15000,Institutional
+D00200,S08741,2024-07-20,Relocation,0,Transfer
+D00201,S13279,2026-03-27,Personal Reasons,5000,Voluntary
+D00202,S16261,2026-05-30,Personal Reasons,5000,Voluntary
+D00203,S05870,2025-09-27,Financial Issues,25000,Institutional
+D00204,S01414,2025-11-20,Personal Reasons,0,Transfer
+D00205,S13646,2024-10-25,Health,10000,Transfer
+D00206,S12961,2026-08-02,Relocation,10000,Voluntary
+D00207,S07367,2025-06-25,Academic Difficulty,15000,Institutional
+D00208,S19148,2025-02-19,Relocation,0,Institutional
+D00209,S03468,2025-11-28,Financial Issues,10000,Institutional
+D00210,S04061,2025-12-19,Relocation,0,Transfer
+D00211,S06291,2024-07-19,Academic Difficulty,5000,Institutional
+D00212,S07389,2026-09-18,Academic Difficulty,10000,Transfer
+D00213,S16480,2024-06-29,Health,15000,Voluntary
+D00214,S09837,2025-12-30,Financial Issues,0,Voluntary
+D00215,S15755,2025-01-16,Health,15000,Transfer
+D00216,S09699,2025-02-26,Low Attendance,0,Voluntary
+D00217,S05095,2024-10-24,Academic Difficulty,5000,Transfer
+D00218,S13112,2026-02-17,Low Attendance,25000,Institutional
+D00219,S05400,2024-06-26,Relocation,15000,Voluntary
+D00220,S02189,2024-06-18,Academic Difficulty,10000,Institutional
+D00221,S04379,2025-12-21,Personal Reasons,15000,Voluntary
+D00222,S01579,2024-10-13,Academic Difficulty,25000,Voluntary
+D00223,S19982,2026-01-23,Personal Reasons,0,Transfer
+D00224,S14799,2024-09-23,Low Attendance,15000,Voluntary
+D00225,S19226,2026-03-11,Health,0,Transfer
+D00226,S04665,2024-08-26,Academic Difficulty,10000,Voluntary
+D00227,S14909,2025-07-14,Health,0,Institutional
+D00228,S01048,2026-04-11,Financial Issues,0,Voluntary
+D00229,S10451,2024-12-04,Low Attendance,5000,Voluntary
+D00230,S15305,2026-09-09,Low Attendance,10000,Voluntary
+D00231,S17523,2025-03-19,Personal Reasons,15000,Voluntary
+D00232,S16793,2024-11-27,Health,15000,Institutional
+D00233,S13777,2026-08-09,Academic Difficulty,10000,Transfer
+D00234,S07534,2025-11-20,Relocation,0,Institutional
+D00235,S19820,2026-08-24,Personal Reasons,5000,Voluntary
+D00236,S04070,2025-04-10,Low Attendance,10000,Transfer
+D00237,S15115,2026-03-20,Personal Reasons,25000,Institutional
+D00238,S02355,2026-09-22,Financial Issues,25000,Voluntary
+D00239,S19052,2025-06-19,Financial Issues,0,Transfer
+D00240,S00928,2025-03-29,Financial Issues,15000,Institutional
+D00241,S16493,2024-12-08,Personal Reasons,0,Voluntary
+D00242,S05792,2026-04-06,Health,25000,Voluntary
+D00243,S07688,2024-09-25,Personal Reasons,15000,Voluntary
+D00244,S13831,2026-06-14,Financial Issues,25000,Transfer
+D00245,S07915,2026-08-14,Health,5000,Transfer
+D00246,S09157,2025-11-29,Low Attendance,0,Transfer
+D00247,S12174,2025-01-04,Low Attendance,25000,Voluntary
+D00248,S01535,2025-04-11,Financial Issues,0,Voluntary
+D00249,S15948,2026-02-20,Low Attendance,25000,Transfer
+D00250,S00211,2026-08-24,Personal Reasons,5000,Voluntary
+D00251,S12207,2025-07-11,Personal Reasons,10000,Transfer
+D00252,S08671,2024-10-13,Personal Reasons,10000,Voluntary
+D00253,S19335,2025-01-03,Financial Issues,0,Transfer
+D00254,S01063,2025-07-25,Health,5000,Voluntary
+D00255,S07469,2025-08-14,Personal Reasons,10000,Transfer
+D00256,S08875,2024-06-12,Low Attendance,25000,Institutional
+D00257,S17221,2024-08-18,Academic Difficulty,25000,Voluntary
+D00258,S14486,2026-03-31,Health,15000,Voluntary
+D00259,S15306,2024-06-29,Academic Difficulty,0,Institutional
+D00260,S07859,2025-11-17,Low Attendance,10000,Voluntary
+D00261,S01045,2026-03-30,Health,25000,Voluntary
+D00262,S02449,2025-07-26,Financial Issues,10000,Transfer
+D00263,S02159,2026-08-05,Financial Issues,0,Institutional
+D00264,S03749,2025-05-23,Academic Difficulty,10000,Voluntary
+D00265,S02221,2026-07-24,Low Attendance,25000,Transfer
+D00266,S04105,2025-02-10,Health,15000,Institutional
+D00267,S12177,2025-02-13,Financial Issues,15000,Transfer
+D00268,S18639,2026-06-23,Academic Difficulty,0,Transfer
+D00269,S07521,2025-03-27,Health,15000,Institutional
+D00270,S06729,2024-12-24,Financial Issues,5000,Institutional
+D00271,S09232,2025-10-02,Relocation,0,Institutional
+D00272,S01780,2025-03-21,Health,25000,Voluntary
+D00273,S10262,2024-09-26,Financial Issues,5000,Institutional
+D00274,S01410,2026-06-20,Health,10000,Voluntary
+D00275,S12041,2024-07-28,Personal Reasons,15000,Institutional
+D00276,S00767,2026-01-03,Health,25000,Voluntary
+D00277,S06379,2025-05-25,Financial Issues,10000,Institutional
+D00278,S14139,2025-01-19,Academic Difficulty,0,Voluntary
+D00279,S03375,2025-09-02,Academic Difficulty,25000,Voluntary
+D00280,S15556,2026-01-22,Financial Issues,25000,Voluntary
+D00281,S07318,2026-06-07,Academic Difficulty,5000,Institutional
+D00282,S02725,2025-11-26,Academic Difficulty,0,Transfer
+D00283,S17672,2025-09-07,Health,10000,Transfer
+D00284,S19468,2026-07-09,Low Attendance,10000,Voluntary
+D00285,S05343,2025-10-07,Financial Issues,25000,Institutional
+D00286,S13828,2024-07-29,Health,5000,Voluntary
+D00287,S05639,2024-11-23,Personal Reasons,0,Institutional
+D00288,S05660,2026-05-07,Health,5000,Transfer
+D00289,S06264,2025-05-15,Financial Issues,5000,Institutional
+D00290,S03302,2025-10-08,Personal Reasons,25000,Voluntary
+D00291,S15940,2025-09-19,Academic Difficulty,5000,Transfer
+D00292,S17720,2026-04-21,Personal Reasons,25000,Voluntary
+D00293,S16527,2024-08-23,Relocation,15000,Voluntary
+D00294,S09289,2024-08-03,Low Attendance,5000,Institutional
+D00295,S15565,2025-10-23,Academic Difficulty,10000,Voluntary
+D00296,S11543,2024-06-18,Academic Difficulty,5000,Institutional
+D00297,S10613,2026-02-11,Financial Issues,15000,Transfer
+D00298,S08587,2026-08-13,Financial Issues,5000,Transfer
+D00299,S11058,2025-01-02,Personal Reasons,15000,Voluntary
+D00300,S05058,2025-04-12,Financial Issues,15000,Voluntary
+D00301,S00694,2024-06-17,Health,0,Voluntary
+D00302,S10282,2024-07-08,Health,5000,Voluntary
+D00303,S05731,2025-05-04,Low Attendance,10000,Transfer
+D00304,S01165,2026-07-04,Academic Difficulty,15000,Voluntary
+D00305,S00447,2024-07-09,Low Attendance,0,Transfer
+D00306,S17231,2025-10-08,Low Attendance,10000,Voluntary
+D00307,S17076,2025-01-28,Academic Difficulty,10000,Institutional
+D00308,S07466,2026-06-29,Financial Issues,0,Transfer
+D00309,S09386,2025-10-13,Health,0,Transfer
+D00310,S16111,2025-06-26,Low Attendance,5000,Voluntary
+D00311,S03548,2025-03-19,Low Attendance,10000,Transfer
+D00312,S08835,2025-12-03,Personal Reasons,15000,Institutional
+D00313,S03425,2025-09-09,Relocation,25000,Institutional
+D00314,S04657,2026-09-06,Low Attendance,15000,Voluntary
+D00315,S18011,2024-08-18,Financial Issues,10000,Institutional
+D00316,S14657,2024-06-18,Low Attendance,0,Institutional
+D00317,S01243,2026-05-18,Financial Issues,15000,Institutional
+D00318,S19696,2025-08-29,Low Attendance,15000,Institutional
+D00319,S07855,2025-12-27,Financial Issues,15000,Voluntary
+D00320,S08136,2025-07-10,Personal Reasons,15000,Institutional
+D00321,S08431,2026-01-01,Personal Reasons,15000,Voluntary
+D00322,S18233,2024-08-02,Academic Difficulty,5000,Institutional
+D00323,S02700,2025-08-01,Low Attendance,25000,Institutional
+D00324,S03383,2024-06-04,Financial Issues,0,Voluntary
+D00325,S11989,2025-04-01,Academic Difficulty,10000,Transfer
+D00326,S17617,2026-05-21,Academic Difficulty,0,Voluntary
+D00327,S16329,2025-04-28,Personal Reasons,10000,Voluntary
+D00328,S05294,2026-07-01,Health,25000,Institutional
+D00329,S13839,2025-11-29,Financial Issues,0,Transfer
+D00330,S06692,2024-07-11,Low Attendance,5000,Institutional
+D00331,S18253,2024-09-03,Health,5000,Transfer
+D00332,S08276,2024-06-14,Academic Difficulty,5000,Institutional
+D00333,S09783,2025-01-27,Low Attendance,5000,Transfer
+D00334,S16601,2024-07-04,Academic Difficulty,10000,Institutional
+D00335,S12047,2026-05-21,Health,15000,Institutional
+D00336,S18967,2026-03-03,Relocation,25000,Voluntary
+D00337,S17621,2026-08-22,Relocation,25000,Transfer
+D00338,S14812,2026-06-26,Low Attendance,15000,Institutional
+D00339,S06505,2025-01-22,Financial Issues,15000,Transfer
+D00340,S19564,2025-11-11,Relocation,25000,Institutional
+D00341,S01712,2024-09-25,Low Attendance,25000,Institutional
+D00342,S13033,2026-01-02,Personal Reasons,0,Transfer
+D00343,S17920,2026-07-05,Financial Issues,25000,Transfer
+D00344,S11477,2025-10-01,Personal Reasons,15000,Institutional
+D00345,S13041,2026-06-08,Personal Reasons,15000,Institutional
+D00346,S08340,2026-02-13,Academic Difficulty,0,Voluntary
+D00347,S18778,2026-07-19,Personal Reasons,15000,Transfer
+D00348,S07417,2025-11-06,Personal Reasons,0,Voluntary
+D00349,S01594,2025-05-20,Low Attendance,15000,Transfer
+D00350,S15649,2024-06-05,Academic Difficulty,15000,Voluntary
+D00351,S11341,2025-03-23,Health,5000,Transfer
+D00352,S07124,2024-09-04,Personal Reasons,15000,Voluntary
+D00353,S02669,2026-01-14,Low Attendance,10000,Voluntary
+D00354,S03454,2025-05-26,Health,15000,Institutional
+D00355,S03815,2024-09-26,Personal Reasons,10000,Voluntary
+D00356,S06600,2025-08-22,Personal Reasons,0,Voluntary
+D00357,S00821,2025-07-31,Low Attendance,25000,Transfer
+D00358,S15485,2025-09-20,Low Attendance,10000,Institutional
+D00359,S01899,2024-11-03,Low Attendance,15000,Institutional
+D00360,S16915,2025-12-09,Health,15000,Voluntary
+D00361,S03025,2024-07-31,Low Attendance,25000,Transfer
+D00362,S06431,2024-09-22,Low Attendance,25000,Institutional
+D00363,S01147,2024-09-19,Academic Difficulty,15000,Voluntary
+D00364,S19046,2025-03-29,Relocation,25000,Institutional
+D00365,S09310,2026-01-06,Financial Issues,10000,Transfer
+D00366,S02607,2026-04-16,Personal Reasons,10000,Voluntary
+D00367,S02498,2024-06-26,Financial Issues,0,Voluntary
+D00368,S04395,2024-10-25,Academic Difficulty,10000,Transfer
+D00369,S01427,2026-04-21,Personal Reasons,5000,Transfer
+D00370,S00790,2025-05-19,Financial Issues,25000,Transfer
+D00371,S14828,2026-02-16,Low Attendance,0,Voluntary
+D00372,S08057,2025-11-08,Financial Issues,15000,Voluntary
+D00373,S14845,2025-03-27,Health,15000,Transfer
+D00374,S14719,2026-01-29,Financial Issues,5000,Transfer
+D00375,S11027,2026-04-11,Health,25000,Transfer
+D00376,S14200,2024-08-22,Financial Issues,10000,Voluntary
+D00377,S13185,2025-10-27,Low Attendance,15000,Voluntary
+D00378,S16391,2025-12-22,Academic Difficulty,5000,Institutional
+D00379,S00731,2025-03-30,Financial Issues,25000,Institutional
+D00380,S10483,2026-08-09,Health,15000,Voluntary
+D00381,S04238,2026-05-05,Academic Difficulty,5000,Voluntary
+D00382,S03538,2024-11-06,Financial Issues,0,Voluntary
+D00383,S08791,2025-01-28,Relocation,5000,Institutional
+D00384,S04782,2026-04-27,Financial Issues,10000,Institutional
+D00385,S12740,2025-12-31,Academic Difficulty,5000,Voluntary
+D00386,S13510,2025-01-06,Relocation,10000,Institutional
+D00387,S03000,2025-06-18,Academic Difficulty,15000,Transfer
+D00388,S01946,2025-03-20,Academic Difficulty,0,Voluntary
+D00389,S02430,2024-12-16,Health,0,Transfer
+D00390,S06401,2025-03-12,Health,15000,Voluntary
+D00391,S11346,2024-07-21,Personal Reasons,0,Voluntary
+D00392,S06221,2026-05-11,Relocation,25000,Voluntary
+D00393,S05280,2026-07-08,Low Attendance,0,Transfer
+D00394,S17385,2025-09-02,Relocation,5000,Transfer
+D00395,S13268,2025-01-12,Personal Reasons,25000,Transfer
+D00396,S12129,2025-12-10,Health,0,Institutional
+D00397,S02127,2024-12-17,Health,25000,Voluntary
+D00398,S00657,2024-12-03,Low Attendance,5000,Institutional
+D00399,S04589,2024-09-29,Health,0,Transfer
+D00400,S19809,2026-07-26,Low Attendance,10000,Institutional
+D00401,S12402,2025-12-08,Financial Issues,25000,Institutional
+D00402,S18182,2024-07-03,Health,10000,Voluntary
+D00403,S04607,2024-10-15,Relocation,15000,Voluntary
+D00404,S00562,2026-07-03,Academic Difficulty,10000,Voluntary
+D00405,S19238,2025-02-12,Personal Reasons,25000,Voluntary
+D00406,S10954,2026-05-02,Health,0,Institutional
+D00407,S11853,2025-08-28,Health,0,Institutional
+D00408,S02750,2024-12-06,Academic Difficulty,10000,Voluntary
+D00409,S09132,2026-05-13,Financial Issues,15000,Voluntary
+D00410,S10331,2024-11-05,Personal Reasons,5000,Institutional
+D00411,S00954,2026-08-20,Academic Difficulty,10000,Voluntary
+D00412,S13614,2025-09-20,Personal Reasons,0,Voluntary
+D00413,S09930,2024-07-25,Personal Reasons,10000,Voluntary
+D00414,S12071,2026-07-16,Personal Reasons,10000,Voluntary
+D00415,S15862,2024-07-18,Health,0,Transfer
+D00416,S13389,2026-02-06,Academic Difficulty,25000,Transfer
+D00417,S06651,2026-09-25,Personal Reasons,5000,Institutional
+D00418,S03183,2026-08-21,Health,10000,Voluntary
+D00419,S01948,2024-07-19,Health,15000,Institutional
+D00420,S14729,2025-02-28,Personal Reasons,25000,Institutional
+D00421,S12249,2025-04-19,Academic Difficulty,25000,Transfer
+D00422,S02309,2025-02-09,Financial Issues,15000,Voluntary
+D00423,S03002,2025-09-25,Low Attendance,5000,Voluntary
+D00424,S12325,2024-07-15,Relocation,0,Transfer
+D00425,S14367,2025-05-21,Low Attendance,15000,Institutional
+D00426,S17916,2024-08-08,Low Attendance,15000,Voluntary
+D00427,S18322,2024-12-14,Academic Difficulty,15000,Transfer
+D00428,S09149,2026-02-07,Low Attendance,15000,Institutional
+D00429,S15715,2025-08-19,Academic Difficulty,25000,Institutional
+D00430,S18554,2025-07-24,Health,5000,Institutional
+D00431,S08717,2024-10-30,Low Attendance,25000,Institutional
+D00432,S11373,2024-06-05,Relocation,0,Institutional
+D00433,S03813,2025-10-12,Financial Issues,5000,Institutional
+D00434,S00343,2025-10-21,Academic Difficulty,15000,Voluntary
+D00435,S03941,2024-07-04,Personal Reasons,15000,Institutional
+D00436,S04053,2026-07-16,Health,15000,Transfer
+D00437,S06446,2026-08-29,Low Attendance,5000,Transfer
+D00438,S14088,2026-07-15,Academic Difficulty,25000,Institutional
+D00439,S11306,2025-09-23,Low Attendance,15000,Institutional
+D00440,S13117,2025-07-18,Health,10000,Transfer
+D00441,S04627,2025-03-10,Relocation,25000,Voluntary
+D00442,S19096,2025-12-24,Academic Difficulty,15000,Voluntary
+D00443,S16121,2025-06-07,Financial Issues,25000,Institutional
+D00444,S03632,2025-11-07,Low Attendance,25000,Voluntary
+D00445,S17175,2026-04-13,Low Attendance,10000,Institutional
+D00446,S01232,2026-07-25,Relocation,25000,Voluntary
+D00447,S11118,2025-08-08,Health,0,Institutional
+D00448,S09585,2026-07-04,Personal Reasons,0,Institutional
+D00449,S13920,2025-06-16,Academic Difficulty,0,Voluntary
+D00450,S17655,2025-06-19,Academic Difficulty,10000,Institutional
+D00451,S01613,2024-08-16,Academic Difficulty,25000,Voluntary
+D00452,S09027,2024-06-10,Financial Issues,25000,Transfer
+D00453,S03201,2025-10-11,Low Attendance,25000,Transfer
+D00454,S11263,2024-11-09,Personal Reasons,10000,Voluntary
+D00455,S18621,2024-06-09,Low Attendance,25000,Transfer
+D00456,S15131,2026-08-13,Academic Difficulty,25000,Voluntary
+D00457,S01784,2026-05-24,Health,0,Institutional
+D00458,S18673,2024-11-17,Personal Reasons,5000,Transfer
+D00459,S00440,2025-07-21,Health,5000,Voluntary
+D00460,S02193,2025-12-08,Relocation,25000,Institutional
+D00461,S18321,2025-09-02,Personal Reasons,5000,Voluntary
+D00462,S02985,2026-04-14,Health,0,Voluntary
+D00463,S12898,2025-11-13,Low Attendance,15000,Voluntary
+D00464,S06289,2026-04-15,Low Attendance,15000,Transfer
+D00465,S09010,2025-07-31,Personal Reasons,15000,Transfer
+D00466,S05801,2026-09-04,Low Attendance,5000,Transfer
+D00467,S00777,2025-04-01,Personal Reasons,0,Transfer
+D00468,S17551,2026-01-23,Academic Difficulty,10000,Institutional
+D00469,S00566,2024-07-21,Financial Issues,0,Institutional
+D00470,S17771,2025-05-23,Personal Reasons,25000,Voluntary
+D00471,S03393,2026-05-24,Low Attendance,25000,Institutional
+D00472,S17403,2026-07-01,Financial Issues,5000,Voluntary
+D00473,S01654,2025-02-03,Health,15000,Voluntary
+D00474,S16206,2025-08-17,Financial Issues,5000,Institutional
+D00475,S00302,2024-10-20,Financial Issues,10000,Voluntary
+D00476,S12894,2025-03-02,Relocation,0,Institutional
+D00477,S05831,2026-05-03,Relocation,15000,Transfer
+D00478,S12633,2024-11-01,Relocation,10000,Transfer
+D00479,S17330,2026-02-13,Relocation,25000,Voluntary
+D00480,S06045,2025-10-29,Academic Difficulty,15000,Transfer
+D00481,S08928,2026-01-17,Personal Reasons,0,Transfer
+D00482,S06415,2024-07-07,Health,5000,Transfer
+D00483,S19443,2025-03-02,Personal Reasons,5000,Transfer
+D00484,S15919,2025-10-19,Financial Issues,10000,Voluntary
+D00485,S04052,2026-06-18,Financial Issues,25000,Institutional
+D00486,S16410,2024-11-04,Financial Issues,25000,Transfer
+D00487,S15456,2025-11-10,Academic Difficulty,25000,Voluntary
+D00488,S19726,2025-02-03,Relocation,25000,Voluntary
+D00489,S04337,2025-06-04,Low Attendance,5000,Institutional
+D00490,S08275,2026-06-11,Low Attendance,15000,Voluntary
+D00491,S08720,2026-08-10,Financial Issues,5000,Transfer
+D00492,S15472,2024-07-03,Personal Reasons,15000,Voluntary
+D00493,S12702,2025-11-01,Financial Issues,10000,Transfer
+D00494,S09413,2024-12-06,Health,10000,Institutional
+D00495,S04749,2026-07-02,Financial Issues,5000,Transfer
+D00496,S06533,2026-07-04,Health,15000,Voluntary
+D00497,S14617,2026-01-14,Health,5000,Voluntary
+D00498,S04163,2024-07-28,Academic Difficulty,15000,Transfer
+D00499,S17815,2024-06-12,Academic Difficulty,15000,Transfer
+D00500,S04297,2026-07-10,Relocation,25000,Transfer
+D00501,S08453,2025-01-13,Personal Reasons,5000,Voluntary
+D00502,S04298,2025-11-09,Relocation,5000,Voluntary
+D00503,S03675,2026-04-07,Financial Issues,0,Voluntary
+D00504,S00435,2025-07-05,Low Attendance,25000,Transfer
+D00505,S16531,2026-03-15,Personal Reasons,15000,Transfer
+D00506,S12201,2024-08-27,Health,15000,Institutional
+D00507,S12783,2025-12-06,Personal Reasons,15000,Transfer
+D00508,S06495,2026-01-18,Low Attendance,5000,Institutional
+D00509,S08458,2026-09-13,Relocation,15000,Transfer
+D00510,S08577,2024-07-24,Health,0,Voluntary
+D00511,S08626,2026-04-01,Relocation,0,Institutional
+D00512,S14695,2025-05-18,Personal Reasons,15000,Voluntary
+D00513,S02983,2026-03-15,Financial Issues,15000,Institutional
+D00514,S05624,2026-05-10,Low Attendance,5000,Institutional
+D00515,S06325,2026-04-24,Relocation,5000,Transfer
+D00516,S03431,2025-04-05,Academic Difficulty,10000,Voluntary
+D00517,S01735,2024-09-07,Health,10000,Institutional
+D00518,S07086,2024-10-13,Relocation,10000,Voluntary
+D00519,S10627,2024-11-13,Health,0,Transfer
+D00520,S15807,2024-10-17,Personal Reasons,25000,Transfer
+D00521,S11388,2026-02-23,Low Attendance,15000,Institutional
+D00522,S11032,2025-12-13,Low Attendance,5000,Transfer
+D00523,S19119,2025-03-21,Academic Difficulty,15000,Voluntary
+D00524,S11833,2026-05-16,Financial Issues,0,Voluntary
+D00525,S16090,2025-07-28,Relocation,0,Voluntary
+D00526,S12521,2026-05-27,Academic Difficulty,15000,Transfer
+D00527,S02422,2025-08-15,Financial Issues,10000,Institutional
+D00528,S08786,2025-05-24,Academic Difficulty,25000,Institutional
+D00529,S06586,2025-06-09,Relocation,0,Transfer
+D00530,S00555,2024-12-01,Financial Issues,0,Institutional
+D00531,S16910,2024-09-26,Relocation,5000,Transfer
+D00532,S18638,2024-11-19,Relocation,10000,Voluntary
+D00533,S03130,2026-08-06,Low Attendance,10000,Institutional
+D00534,S08672,2025-05-07,Health,15000,Voluntary
+D00535,S17220,2026-09-17,Relocation,25000,Voluntary
+D00536,S17819,2026-03-06,Financial Issues,15000,Institutional
+D00537,S02181,2025-11-21,Health,5000,Transfer
+D00538,S09623,2026-04-15,Low Attendance,25000,Transfer
+D00539,S15138,2024-06-15,Academic Difficulty,0,Transfer
+D00540,S03826,2025-10-15,Relocation,5000,Voluntary
+D00541,S12890,2024-08-28,Personal Reasons,25000,Transfer
+D00542,S15007,2026-09-07,Academic Difficulty,10000,Voluntary
+D00543,S11580,2025-09-18,Personal Reasons,0,Institutional
+D00544,S07687,2026-06-18,Health,10000,Voluntary
+D00545,S02757,2024-10-21,Low Attendance,5000,Voluntary
+D00546,S08684,2024-09-03,Academic Difficulty,10000,Voluntary
+D00547,S11222,2024-09-24,Financial Issues,5000,Transfer
+D00548,S14816,2025-09-15,Health,15000,Voluntary
+D00549,S10966,2026-05-06,Health,25000,Institutional
+D00550,S09163,2025-02-03,Relocation,0,Voluntary
+D00551,S16982,2026-09-18,Academic Difficulty,15000,Voluntary
+D00552,S04447,2025-10-05,Relocation,10000,Institutional
+D00553,S09941,2024-12-06,Personal Reasons,5000,Institutional
+D00554,S11521,2025-05-07,Health,15000,Institutional
+D00555,S06463,2025-08-29,Health,0,Voluntary
+D00556,S04573,2026-08-29,Financial Issues,15000,Institutional
+D00557,S18546,2025-10-04,Low Attendance,15000,Institutional
+D00558,S11396,2026-03-26,Academic Difficulty,5000,Transfer
+D00559,S13838,2024-11-17,Health,25000,Institutional
+D00560,S05520,2025-03-17,Health,0,Transfer
+D00561,S07416,2024-07-16,Health,10000,Institutional
+D00562,S14979,2025-07-19,Low Attendance,15000,Voluntary
+D00563,S01242,2024-06-09,Personal Reasons,25000,Transfer
+D00564,S17376,2026-05-20,Relocation,0,Transfer
+D00565,S11186,2026-02-07,Low Attendance,5000,Institutional
+D00566,S07467,2024-10-07,Financial Issues,25000,Institutional
+D00567,S04435,2025-11-21,Low Attendance,10000,Institutional
+D00568,S11746,2025-07-24,Personal Reasons,15000,Institutional
+D00569,S15260,2025-06-18,Financial Issues,25000,Institutional
+D00570,S00560,2025-06-28,Low Attendance,15000,Transfer
+D00571,S06779,2024-11-18,Relocation,0,Transfer
+D00572,S15234,2026-09-14,Health,5000,Transfer
+D00573,S19937,2024-09-16,Health,10000,Institutional
+D00574,S08578,2024-11-18,Health,0,Voluntary
+D00575,S17866,2025-12-30,Personal Reasons,10000,Voluntary
+D00576,S18914,2025-03-02,Relocation,10000,Institutional
+D00577,S13155,2026-02-11,Low Attendance,15000,Transfer
+D00578,S12317,2025-05-30,Financial Issues,10000,Institutional
+D00579,S05198,2025-08-25,Health,10000,Institutional
+D00580,S15029,2025-08-31,Academic Difficulty,0,Institutional
+D00581,S19469,2026-06-15,Academic Difficulty,0,Voluntary
+D00582,S11236,2025-06-30,Financial Issues,25000,Transfer
+D00583,S18976,2024-11-26,Relocation,10000,Institutional
+D00584,S00655,2024-11-28,Health,25000,Institutional
+D00585,S17962,2024-06-26,Health,10000,Institutional
+D00586,S07529,2025-04-05,Relocation,25000,Voluntary
+D00587,S05379,2025-11-06,Health,25000,Voluntary
+D00588,S01486,2025-06-30,Low Attendance,5000,Voluntary
+D00589,S17794,2025-12-21,Relocation,25000,Voluntary
+D00590,S07215,2026-03-12,Personal Reasons,10000,Voluntary
+D00591,S19900,2026-01-30,Academic Difficulty,0,Institutional
+D00592,S00524,2026-09-26,Relocation,5000,Transfer
+D00593,S09521,2026-01-07,Personal Reasons,5000,Voluntary
+D00594,S07578,2026-02-09,Low Attendance,10000,Voluntary
+D00595,S01838,2024-08-17,Relocation,10000,Institutional
+D00596,S19599,2024-12-28,Relocation,5000,Transfer
+D00597,S09767,2025-09-29,Financial Issues,5000,Voluntary
+D00598,S14694,2024-12-15,Health,10000,Transfer
+D00599,S13867,2026-04-29,Academic Difficulty,10000,Institutional
+D00600,S12416,2026-09-03,Academic Difficulty,25000,Voluntary
+D00601,S05602,2025-08-29,Financial Issues,10000,Institutional
+D00602,S09620,2025-09-25,Financial Issues,10000,Voluntary
+D00603,S06330,2025-02-22,Personal Reasons,5000,Transfer
+D00604,S15329,2026-02-18,Financial Issues,10000,Transfer
+D00605,S10191,2024-08-11,Personal Reasons,25000,Transfer
+D00606,S08410,2026-03-17,Financial Issues,15000,Voluntary
+D00607,S06440,2025-03-05,Academic Difficulty,10000,Voluntary
+D00608,S01474,2025-07-28,Relocation,25000,Voluntary
+D00609,S15169,2026-07-11,Low Attendance,25000,Voluntary
+D00610,S07100,2026-07-27,Academic Difficulty,25000,Voluntary
+D00611,S09725,2024-07-11,Financial Issues,15000,Institutional
+D00612,S19919,2025-12-15,Financial Issues,10000,Transfer
+D00613,S10102,2026-02-16,Academic Difficulty,5000,Voluntary
+D00614,S09858,2026-04-16,Academic Difficulty,0,Institutional
+D00615,S01135,2025-11-25,Low Attendance,25000,Voluntary
+D00616,S10567,2026-01-07,Relocation,25000,Transfer
+D00617,S04423,2025-11-05,Relocation,5000,Institutional
+D00618,S03527,2024-10-26,Financial Issues,25000,Voluntary
+D00619,S09268,2024-11-22,Personal Reasons,25000,Transfer
+D00620,S17433,2026-08-03,Academic Difficulty,10000,Institutional
+D00621,S04567,2025-04-09,Financial Issues,25000,Transfer
+D00622,S11973,2024-10-17,Financial Issues,0,Transfer
+D00623,S15196,2025-10-15,Financial Issues,25000,Transfer
+D00624,S05734,2024-12-25,Personal Reasons,0,Voluntary
+D00625,S03649,2026-07-08,Personal Reasons,0,Transfer
+D00626,S17283,2026-01-14,Relocation,0,Voluntary
+D00627,S09715,2025-11-13,Low Attendance,25000,Institutional
+D00628,S03106,2026-01-14,Financial Issues,5000,Voluntary
+D00629,S03805,2025-07-03,Academic Difficulty,5000,Transfer
+D00630,S18946,2026-07-17,Academic Difficulty,0,Institutional
+D00631,S13480,2024-07-28,Health,15000,Institutional
+D00632,S11980,2024-07-16,Low Attendance,25000,Institutional
+D00633,S14012,2026-05-07,Financial Issues,10000,Institutional
+D00634,S08646,2024-11-25,Academic Difficulty,25000,Voluntary
+D00635,S17944,2024-09-21,Personal Reasons,10000,Voluntary
+D00636,S15885,2026-07-19,Low Attendance,25000,Institutional
+D00637,S03545,2024-08-02,Personal Reasons,10000,Institutional
+D00638,S07852,2024-07-31,Health,5000,Transfer
+D00639,S19275,2026-08-02,Academic Difficulty,15000,Voluntary
+D00640,S16727,2024-12-03,Relocation,25000,Transfer
+D00641,S15803,2025-01-25,Low Attendance,10000,Transfer
+D00642,S15057,2025-10-22,Low Attendance,0,Voluntary
+D00643,S05455,2024-11-11,Health,0,Institutional
+D00644,S16692,2025-07-02,Financial Issues,5000,Transfer
+D00645,S05554,2026-07-18,Academic Difficulty,0,Institutional
+D00646,S07796,2025-10-02,Relocation,25000,Institutional
+D00647,S04121,2024-07-10,Low Attendance,0,Transfer
+D00648,S07573,2025-01-06,Personal Reasons,0,Institutional
+D00649,S12231,2026-02-15,Relocation,0,Transfer
+D00650,S11403,2025-03-05,Personal Reasons,15000,Institutional
+D00651,S18298,2026-01-09,Financial Issues,25000,Transfer
+D00652,S07273,2024-08-18,Financial Issues,25000,Institutional
+D00653,S07205,2025-09-16,Personal Reasons,5000,Institutional
+D00654,S03600,2025-11-29,Relocation,25000,Transfer
+D00655,S17498,2025-12-04,Low Attendance,25000,Institutional
+D00656,S07038,2024-09-05,Personal Reasons,5000,Institutional
+D00657,S16170,2025-02-06,Academic Difficulty,0,Voluntary
+D00658,S04200,2024-10-10,Academic Difficulty,5000,Voluntary
+D00659,S16859,2026-03-21,Relocation,15000,Institutional
+D00660,S17348,2026-03-10,Personal Reasons,0,Institutional
+D00661,S10587,2025-02-18,Academic Difficulty,10000,Voluntary
+D00662,S16203,2025-06-13,Health,0,Institutional
+D00663,S16135,2026-03-25,Relocation,25000,Voluntary
+D00664,S03134,2026-08-18,Relocation,0,Transfer
+D00665,S08344,2026-09-09,Personal Reasons,0,Voluntary
+D00666,S19450,2024-11-29,Low Attendance,10000,Institutional
+D00667,S11816,2026-06-24,Personal Reasons,15000,Transfer
+D00668,S18616,2026-01-29,Financial Issues,0,Voluntary
+D00669,S05304,2024-10-22,Low Attendance,25000,Institutional
+D00670,S10185,2026-07-06,Health,15000,Voluntary
+D00671,S08912,2025-06-29,Relocation,25000,Voluntary
+D00672,S07482,2025-02-23,Personal Reasons,10000,Voluntary
+D00673,S11098,2024-09-06,Relocation,25000,Institutional
+D00674,S17557,2024-06-21,Financial Issues,15000,Voluntary
+D00675,S10952,2026-06-19,Financial Issues,5000,Transfer
+D00676,S10881,2025-06-13,Financial Issues,0,Institutional
+D00677,S09955,2026-04-28,Financial Issues,5000,Voluntary
+D00678,S19691,2026-02-25,Personal Reasons,0,Transfer
+D00679,S15998,2026-02-16,Academic Difficulty,0,Voluntary
+D00680,S06130,2026-04-29,Health,25000,Institutional
+D00681,S17324,2025-10-11,Low Attendance,15000,Voluntary
+D00682,S12889,2024-10-19,Health,10000,Transfer
+D00683,S00754,2025-05-09,Financial Issues,10000,Transfer
+D00684,S14343,2025-12-01,Relocation,0,Voluntary
+D00685,S19149,2024-07-30,Financial Issues,10000,Voluntary
+D00686,S09677,2026-03-23,Health,0,Institutional
+D00687,S18811,2025-03-01,Low Attendance,15000,Transfer
+D00688,S19287,2025-09-15,Low Attendance,5000,Transfer
+D00689,S06118,2025-12-20,Academic Difficulty,5000,Institutional
+D00690,S02517,2025-10-01,Health,0,Institutional
+D00691,S03785,2025-03-17,Academic Difficulty,25000,Voluntary
+D00692,S05851,2025-07-14,Low Attendance,15000,Transfer
+D00693,S18997,2025-02-22,Personal Reasons,0,Voluntary
+D00694,S04364,2024-11-11,Relocation,15000,Voluntary
+D00695,S07233,2026-07-16,Financial Issues,15000,Voluntary
+D00696,S10986,2025-05-28,Academic Difficulty,25000,Transfer
+D00697,S13120,2025-02-10,Academic Difficulty,5000,Voluntary
+D00698,S10694,2024-10-04,Relocation,15000,Institutional
+D00699,S13312,2026-03-11,Low Attendance,0,Voluntary
+D00700,S04174,2025-11-29,Low Attendance,5000,Voluntary
+D00701,S04737,2026-03-08,Academic Difficulty,0,Institutional
+D00702,S19312,2026-07-12,Personal Reasons,5000,Transfer
+D00703,S18607,2026-04-29,Health,15000,Institutional
+D00704,S17812,2025-12-05,Personal Reasons,25000,Transfer
+D00705,S05306,2024-09-29,Financial Issues,0,Transfer
+D00706,S12102,2024-09-10,Financial Issues,10000,Transfer
+D00707,S08520,2026-06-17,Low Attendance,0,Institutional
+D00708,S02695,2025-10-02,Relocation,0,Institutional
+D00709,S07335,2024-12-26,Health,15000,Voluntary
+D00710,S03510,2025-08-24,Academic Difficulty,0,Voluntary
+D00711,S10778,2024-07-14,Health,0,Voluntary
+D00712,S06494,2025-12-20,Personal Reasons,25000,Transfer
+D00713,S18786,2025-08-21,Financial Issues,25000,Institutional
+D00714,S02482,2025-02-10,Financial Issues,10000,Voluntary
+D00715,S13976,2025-01-28,Health,0,Transfer
+D00716,S02811,2026-07-30,Financial Issues,0,Transfer
+D00717,S17126,2025-06-13,Academic Difficulty,10000,Institutional
+D00718,S15659,2026-05-17,Financial Issues,5000,Transfer
+D00719,S06371,2024-11-16,Financial Issues,0,Voluntary
+D00720,S14434,2024-07-06,Low Attendance,25000,Institutional
+D00721,S00254,2025-06-01,Financial Issues,5000,Institutional
+D00722,S03921,2025-12-10,Health,25000,Institutional
+D00723,S05405,2024-08-29,Personal Reasons,10000,Voluntary
+D00724,S11233,2026-02-15,Low Attendance,0,Institutional
+D00725,S10133,2025-09-09,Personal Reasons,25000,Voluntary
+D00726,S05099,2024-06-22,Relocation,25000,Institutional
+D00727,S15333,2026-01-09,Relocation,15000,Transfer
+D00728,S02552,2024-08-04,Low Attendance,15000,Institutional
+D00729,S07672,2025-03-18,Low Attendance,0,Institutional
+D00730,S08270,2026-01-01,Relocation,5000,Institutional
+D00731,S07299,2025-05-27,Low Attendance,5000,Transfer
+D00732,S09998,2026-01-19,Relocation,0,Transfer
+D00733,S00476,2025-03-07,Low Attendance,15000,Institutional
+D00734,S00315,2026-03-18,Low Attendance,10000,Institutional
+D00735,S09586,2025-11-30,Low Attendance,10000,Voluntary
+D00736,S01209,2025-10-08,Health,5000,Transfer
+D00737,S17260,2025-06-10,Low Attendance,15000,Voluntary
+D00738,S09848,2026-06-29,Relocation,25000,Transfer
+D00739,S03505,2026-02-18,Financial Issues,10000,Transfer
+D00740,S08960,2024-08-31,Academic Difficulty,0,Voluntary
+D00741,S18999,2025-11-02,Relocation,10000,Voluntary
+D00742,S11313,2025-03-14,Academic Difficulty,15000,Institutional
+D00743,S00098,2026-04-12,Financial Issues,0,Voluntary
+D00744,S16266,2025-07-02,Relocation,0,Voluntary
+D00745,S09835,2024-07-11,Academic Difficulty,25000,Institutional
+D00746,S08837,2024-11-03,Financial Issues,25000,Voluntary
+D00747,S18040,2025-12-23,Relocation,25000,Transfer
+D00748,S10913,2025-06-20,Academic Difficulty,0,Voluntary
+D00749,S17167,2024-11-13,Health,5000,Transfer
+D00750,S03975,2024-08-15,Personal Reasons,10000,Institutional
+D00751,S05284,2025-02-23,Relocation,0,Institutional
+D00752,S10251,2025-04-07,Health,10000,Institutional
+D00753,S05935,2025-02-10,Financial Issues,5000,Voluntary
+D00754,S09840,2025-03-15,Financial Issues,0,Transfer
+D00755,S01118,2026-05-30,Low Attendance,0,Voluntary
+D00756,S13067,2026-08-12,Health,10000,Voluntary
+D00757,S13068,2026-05-04,Health,10000,Voluntary
+D00758,S05974,2025-06-04,Relocation,5000,Institutional
+D00759,S19163,2026-05-13,Health,25000,Voluntary
+D00760,S19549,2024-12-06,Relocation,15000,Institutional
+D00761,S14283,2025-05-28,Academic Difficulty,25000,Transfer
+D00762,S04555,2026-04-15,Health,15000,Transfer
+D00763,S02280,2025-12-06,Low Attendance,25000,Institutional
+D00764,S11652,2025-01-15,Financial Issues,10000,Voluntary
+D00765,S04236,2026-09-03,Financial Issues,5000,Institutional
+D00766,S03317,2025-06-03,Relocation,15000,Transfer
+D00767,S09822,2024-09-02,Health,0,Voluntary
+D00768,S19350,2026-03-03,Low Attendance,10000,Transfer
+D00769,S06579,2025-12-03,Personal Reasons,5000,Institutional
+D00770,S00116,2025-03-31,Personal Reasons,5000,Institutional
+D00771,S07120,2024-07-20,Relocation,0,Voluntary
+D00772,S15954,2026-07-28,Personal Reasons,0,Transfer
+D00773,S02591,2026-09-06,Relocation,10000,Transfer
+D00774,S04470,2026-08-11,Low Attendance,15000,Institutional
+D00775,S11097,2025-10-06,Personal Reasons,5000,Transfer
+D00776,S15679,2025-06-10,Academic Difficulty,10000,Transfer
+D00777,S04232,2025-05-28,Health,10000,Voluntary
+D00778,S10652,2025-05-27,Personal Reasons,10000,Institutional
+D00779,S01321,2026-01-31,Academic Difficulty,0,Transfer
+D00780,S19766,2025-04-01,Low Attendance,0,Institutional
+D00781,S13253,2025-03-19,Health,10000,Transfer
+D00782,S19641,2025-07-30,Low Attendance,5000,Voluntary
+D00783,S04112,2024-08-09,Relocation,25000,Voluntary
+D00784,S12834,2024-08-04,Health,15000,Transfer
+D00785,S03718,2026-04-02,Personal Reasons,5000,Transfer
+D00786,S18711,2026-02-27,Personal Reasons,15000,Transfer
+D00787,S11272,2025-01-07,Low Attendance,25000,Transfer
+D00788,S05973,2025-12-01,Academic Difficulty,10000,Transfer
+D00789,S13179,2024-09-02,Low Attendance,10000,Transfer
+D00790,S01062,2025-09-26,Low Attendance,15000,Voluntary
+D00791,S12973,2025-05-21,Financial Issues,15000,Transfer
+D00792,S05787,2026-09-22,Academic Difficulty,25000,Transfer
+D00793,S06314,2025-11-05,Health,15000,Voluntary
+D00794,S00011,2026-09-26,Personal Reasons,10000,Voluntary
+D00795,S09792,2026-07-14,Personal Reasons,15000,Transfer
+D00796,S08114,2024-10-27,Relocation,25000,Voluntary
+D00797,S19533,2026-03-29,Health,5000,Institutional
+D00798,S16941,2025-03-06,Relocation,5000,Voluntary
+D00799,S09696,2026-07-03,Health,10000,Voluntary
+D00800,S14235,2026-05-06,Personal Reasons,0,Transfer
+D00801,S04294,2025-11-25,Academic Difficulty,15000,Transfer
+D00802,S14135,2025-10-12,Relocation,25000,Voluntary
+D00803,S05047,2024-11-28,Personal Reasons,15000,Transfer
+D00804,S05710,2024-08-02,Academic Difficulty,25000,Voluntary
+D00805,S17056,2025-09-26,Academic Difficulty,10000,Voluntary
+D00806,S09059,2024-12-01,Financial Issues,0,Transfer
+D00807,S10474,2024-07-27,Relocation,25000,Voluntary
+D00808,S13849,2024-07-16,Personal Reasons,0,Institutional
+D00809,S07862,2025-03-12,Relocation,10000,Institutional
+D00810,S15108,2024-11-15,Financial Issues,25000,Transfer
+D00811,S06811,2024-07-14,Financial Issues,5000,Voluntary
+D00812,S02680,2024-09-11,Personal Reasons,10000,Transfer
+D00813,S17226,2024-06-26,Personal Reasons,25000,Institutional
+D00814,S15083,2025-07-08,Health,25000,Institutional
+D00815,S01690,2024-12-30,Academic Difficulty,0,Voluntary
+D00816,S09462,2026-01-27,Academic Difficulty,15000,Voluntary
+D00817,S04819,2024-09-25,Relocation,25000,Institutional
+D00818,S12696,2025-05-18,Financial Issues,0,Institutional
+D00819,S00123,2024-08-18,Health,10000,Institutional
+D00820,S13633,2024-06-12,Low Attendance,25000,Voluntary
+D00821,S01149,2026-09-05,Low Attendance,0,Institutional
+D00822,S07867,2024-10-14,Low Attendance,0,Voluntary
+D00823,S10706,2024-12-16,Financial Issues,10000,Institutional
+D00824,S14849,2024-09-04,Academic Difficulty,15000,Transfer
+D00825,S06094,2025-08-01,Health,5000,Transfer
+D00826,S09416,2025-02-20,Health,25000,Institutional
+D00827,S04161,2026-08-05,Financial Issues,10000,Transfer
+D00828,S13793,2026-01-22,Low Attendance,25000,Transfer
+D00829,S07184,2025-04-25,Personal Reasons,5000,Institutional
+D00830,S00076,2024-11-21,Low Attendance,0,Transfer
+D00831,S08147,2024-07-20,Financial Issues,5000,Transfer
+D00832,S16093,2024-06-12,Personal Reasons,25000,Transfer
+D00833,S16857,2024-06-06,Financial Issues,15000,Voluntary
+D00834,S04055,2025-07-19,Academic Difficulty,25000,Transfer
+D00835,S07407,2025-12-31,Health,0,Transfer
+D00836,S00503,2026-04-06,Relocation,25000,Institutional
+D00837,S07272,2025-05-03,Personal Reasons,25000,Institutional
+D00838,S19704,2026-01-06,Academic Difficulty,10000,Institutional
+D00839,S07581,2026-07-12,Low Attendance,15000,Institutional
+D00840,S15254,2024-09-24,Personal Reasons,5000,Transfer
+D00841,S10811,2026-05-25,Low Attendance,5000,Transfer
+D00842,S18340,2026-05-07,Health,25000,Transfer
+D00843,S06546,2025-09-14,Financial Issues,0,Institutional
+D00844,S12287,2026-03-09,Financial Issues,15000,Transfer
+D00845,S01881,2025-11-23,Relocation,5000,Institutional
+D00846,S05053,2025-07-04,Financial Issues,25000,Transfer
+D00847,S03121,2024-09-12,Personal Reasons,0,Voluntary
+D00848,S12551,2026-04-17,Personal Reasons,10000,Transfer
+D00849,S00945,2025-02-25,Academic Difficulty,10000,Institutional
+D00850,S05500,2025-04-09,Health,0,Transfer
+D00851,S18056,2026-07-14,Low Attendance,0,Transfer
+D00852,S18234,2024-06-10,Academic Difficulty,10000,Transfer
+D00853,S10484,2024-12-14,Low Attendance,5000,Transfer
+D00854,S03254,2026-04-08,Relocation,5000,Institutional
+D00855,S11608,2026-06-29,Personal Reasons,0,Voluntary
+D00856,S07668,2026-06-02,Academic Difficulty,25000,Transfer
+D00857,S10065,2025-08-29,Financial Issues,25000,Institutional
+D00858,S01395,2024-10-05,Personal Reasons,0,Institutional
+D00859,S18088,2026-05-29,Low Attendance,25000,Institutional
+D00860,S17743,2025-07-15,Low Attendance,0,Transfer
+D00861,S01294,2024-06-11,Health,25000,Voluntary
+D00862,S09862,2026-03-03,Health,10000,Voluntary
+D00863,S19093,2025-08-29,Relocation,15000,Voluntary
+D00864,S19542,2026-08-01,Academic Difficulty,5000,Transfer
+D00865,S14954,2026-05-08,Low Attendance,0,Voluntary
+D00866,S00752,2026-03-17,Health,5000,Institutional
+D00867,S18705,2025-10-30,Financial Issues,10000,Transfer
+D00868,S11679,2025-07-21,Personal Reasons,25000,Transfer
+D00869,S08799,2026-06-13,Relocation,10000,Transfer
+D00870,S19739,2024-10-14,Personal Reasons,15000,Transfer
+D00871,S02091,2025-08-09,Financial Issues,5000,Institutional
+D00872,S06824,2024-09-04,Personal Reasons,5000,Transfer
+D00873,S05017,2025-08-07,Personal Reasons,15000,Transfer
+D00874,S18159,2026-01-01,Academic Difficulty,0,Institutional
+D00875,S08631,2024-07-05,Personal Reasons,10000,Institutional
+D00876,S07464,2025-02-21,Financial Issues,5000,Voluntary
+D00877,S10408,2025-05-12,Personal Reasons,5000,Voluntary
+D00878,S08994,2025-11-11,Financial Issues,5000,Institutional
+D00879,S02558,2025-10-08,Personal Reasons,5000,Institutional
+D00880,S15552,2024-10-10,Low Attendance,0,Transfer
+D00881,S02132,2025-10-19,Academic Difficulty,5000,Institutional
+D00882,S03486,2025-04-19,Financial Issues,5000,Institutional
+D00883,S18904,2025-09-05,Low Attendance,25000,Voluntary
+D00884,S01618,2025-10-23,Relocation,10000,Transfer
+D00885,S04715,2026-03-19,Relocation,10000,Institutional
+D00886,S10300,2025-03-06,Health,0,Transfer
+D00887,S19658,2026-08-02,Personal Reasons,0,Transfer
+D00888,S09826,2024-07-04,Low Attendance,25000,Transfer
+D00889,S12615,2026-08-16,Health,15000,Institutional
+D00890,S10170,2025-04-11,Low Attendance,25000,Voluntary
+D00891,S01185,2025-02-20,Personal Reasons,5000,Voluntary
+D00892,S06182,2026-04-16,Low Attendance,15000,Institutional
+D00893,S06479,2026-01-27,Relocation,25000,Transfer
+D00894,S12243,2025-01-08,Academic Difficulty,15000,Institutional
+D00895,S01853,2025-12-17,Health,10000,Institutional
+D00896,S01330,2025-10-03,Financial Issues,5000,Institutional
+D00897,S05725,2025-05-28,Health,0,Transfer
+D00898,S00320,2026-03-17,Personal Reasons,10000,Transfer
+D00899,S13047,2026-04-01,Financial Issues,5000,Voluntary
+D00900,S04532,2026-02-08,Academic Difficulty,5000,Transfer
+D00901,S08016,2026-09-16,Relocation,15000,Institutional
+D00902,S06350,2026-05-02,Personal Reasons,15000,Transfer
+D00903,S09764,2026-04-12,Relocation,25000,Institutional
+D00904,S15720,2025-07-22,Financial Issues,25000,Institutional
+D00905,S02098,2026-01-06,Relocation,15000,Voluntary
+D00906,S18510,2026-01-22,Low Attendance,15000,Transfer
+D00907,S08335,2025-05-17,Academic Difficulty,15000,Voluntary
+D00908,S19064,2025-06-16,Health,5000,Institutional
+D00909,S07922,2025-03-17,Academic Difficulty,25000,Transfer
+D00910,S08494,2025-04-16,Relocation,15000,Transfer
+D00911,S13472,2024-06-18,Low Attendance,5000,Institutional
+D00912,S05212,2026-05-18,Academic Difficulty,15000,Voluntary
+D00913,S03910,2024-07-29,Academic Difficulty,25000,Transfer
+D00914,S04884,2024-09-17,Relocation,15000,Voluntary
+D00915,S12640,2025-08-05,Academic Difficulty,15000,Institutional
+D00916,S05272,2024-11-21,Health,0,Institutional
+D00917,S11726,2025-04-27,Academic Difficulty,5000,Voluntary
+D00918,S18516,2026-07-17,Academic Difficulty,10000,Transfer
+D00919,S19054,2025-05-26,Academic Difficulty,15000,Institutional
+D00920,S16583,2026-04-03,Academic Difficulty,5000,Institutional
+D00921,S11009,2024-08-26,Health,5000,Institutional
+D00922,S06641,2024-12-28,Personal Reasons,0,Voluntary
+D00923,S16025,2024-11-27,Health,10000,Institutional
+D00924,S13711,2026-07-28,Low Attendance,5000,Transfer
+D00925,S19999,2025-03-18,Low Attendance,0,Transfer
+D00926,S18851,2026-01-20,Academic Difficulty,15000,Institutional
+D00927,S10218,2026-06-20,Personal Reasons,10000,Voluntary
+D00928,S13468,2025-01-06,Personal Reasons,5000,Transfer
+D00929,S09760,2025-06-03,Personal Reasons,5000,Voluntary
+D00930,S10376,2025-08-01,Academic Difficulty,10000,Institutional
+D00931,S14962,2025-09-26,Health,0,Voluntary
+D00932,S19665,2026-01-02,Health,5000,Voluntary
+D00933,S18483,2025-01-29,Personal Reasons,15000,Transfer
+D00934,S15187,2026-07-14,Low Attendance,15000,Transfer
+D00935,S10953,2026-07-18,Relocation,5000,Institutional
+D00936,S07339,2025-07-01,Academic Difficulty,25000,Institutional
+D00937,S12324,2024-09-13,Personal Reasons,25000,Voluntary
+D00938,S19401,2026-03-14,Low Attendance,10000,Voluntary
+D00939,S00323,2025-08-29,Relocation,5000,Voluntary
+D00940,S13631,2025-03-06,Financial Issues,10000,Transfer
+D00941,S01991,2026-02-15,Low Attendance,10000,Institutional
+D00942,S19703,2024-10-26,Low Attendance,15000,Voluntary
+D00943,S11906,2024-09-26,Financial Issues,0,Transfer
+D00944,S13011,2026-01-26,Health,5000,Transfer
+D00945,S10730,2024-09-04,Academic Difficulty,15000,Institutional
+D00946,S18201,2026-05-07,Low Attendance,15000,Institutional
+D00947,S01172,2024-12-04,Low Attendance,5000,Institutional
+D00948,S12852,2025-08-13,Financial Issues,5000,Institutional
+D00949,S13840,2026-09-05,Low Attendance,10000,Transfer
+D00950,S10809,2024-12-05,Academic Difficulty,0,Institutional
+D00951,S14453,2026-01-11,Academic Difficulty,0,Voluntary
+D00952,S01505,2025-03-31,Low Attendance,0,Institutional
+D00953,S01608,2024-08-22,Academic Difficulty,25000,Transfer
+D00954,S15891,2026-09-19,Financial Issues,15000,Institutional
+D00955,S13852,2025-05-01,Academic Difficulty,5000,Voluntary
+D00956,S15621,2026-07-29,Relocation,0,Institutional
+D00957,S01355,2025-04-03,Personal Reasons,10000,Institutional
+D00958,S16249,2025-08-14,Financial Issues,10000,Voluntary
+D00959,S04049,2025-07-06,Personal Reasons,5000,Institutional
+D00960,S00130,2025-07-03,Academic Difficulty,0,Voluntary
+D00961,S06970,2024-07-05,Low Attendance,5000,Voluntary
+D00962,S15713,2024-07-29,Low Attendance,25000,Voluntary
+D00963,S19330,2025-06-27,Health,10000,Transfer
+D00964,S14430,2025-09-01,Low Attendance,25000,Voluntary
+D00965,S04583,2025-08-04,Low Attendance,15000,Institutional
+D00966,S09087,2025-02-05,Low Attendance,10000,Voluntary
+D00967,S11405,2024-12-15,Financial Issues,15000,Transfer
+D00968,S10933,2026-02-28,Academic Difficulty,25000,Voluntary
+D00969,S18044,2025-05-04,Personal Reasons,0,Voluntary
+D00970,S15122,2025-09-24,Personal Reasons,5000,Transfer
+D00971,S09243,2025-07-11,Financial Issues,15000,Voluntary
+D00972,S09435,2026-01-16,Low Attendance,5000,Institutional
+D00973,S10831,2024-06-07,Relocation,5000,Institutional
+D00974,S16242,2025-01-08,Low Attendance,15000,Voluntary
+D00975,S16463,2026-02-27,Relocation,0,Transfer
+D00976,S05941,2024-09-08,Academic Difficulty,25000,Voluntary
+D00977,S00831,2026-01-06,Academic Difficulty,5000,Transfer
+D00978,S01129,2025-06-01,Low Attendance,15000,Institutional
+D00979,S02643,2025-02-07,Low Attendance,25000,Institutional
+D00980,S19340,2024-11-20,Personal Reasons,25000,Voluntary
+D00981,S02453,2024-07-20,Academic Difficulty,25000,Institutional
+D00982,S17524,2024-08-14,Relocation,15000,Transfer
+D00983,S05793,2025-05-09,Relocation,10000,Institutional
+D00984,S19913,2025-12-27,Relocation,5000,Voluntary
+D00985,S05691,2025-10-17,Relocation,15000,Transfer
+D00986,S02688,2026-02-01,Low Attendance,10000,Voluntary
+D00987,S19687,2025-06-24,Academic Difficulty,10000,Institutional
+D00988,S11038,2024-11-16,Low Attendance,5000,Transfer
+D00989,S03589,2025-12-04,Financial Issues,0,Institutional
+D00990,S05872,2026-03-22,Low Attendance,5000,Institutional
+D00991,S09086,2024-11-02,Health,15000,Institutional
+D00992,S14116,2025-11-25,Financial Issues,25000,Institutional
+D00993,S03469,2025-05-08,Financial Issues,25000,Transfer
+D00994,S04990,2025-11-16,Low Attendance,15000,Transfer
+D00995,S04459,2024-12-02,Health,25000,Voluntary
+D00996,S14688,2024-06-01,Low Attendance,0,Transfer
+D00997,S19886,2025-12-18,Academic Difficulty,10000,Transfer
+D00998,S13122,2024-11-26,Personal Reasons,25000,Institutional
+D00999,S17568,2024-07-20,Health,10000,Voluntary
+D01000,S14423,2025-10-13,Relocation,0,Transfer
+D01001,S05231,2024-06-02,Low Attendance,0,Voluntary
+D01002,S05665,2024-10-20,Financial Issues,0,Transfer
+D01003,S11592,2026-02-19,Health,10000,Voluntary
+D01004,S03496,2025-01-28,Low Attendance,10000,Voluntary
+D01005,S16840,2026-09-10,Personal Reasons,25000,Institutional
+D01006,S00031,2025-05-09,Personal Reasons,10000,Transfer
+D01007,S07083,2025-01-11,Relocation,10000,Institutional
+D01008,S14544,2025-02-22,Academic Difficulty,0,Transfer
+D01009,S17026,2026-08-25,Low Attendance,0,Voluntary
+D01010,S15918,2026-09-19,Low Attendance,0,Voluntary
+D01011,S14733,2025-12-20,Relocation,15000,Transfer
+D01012,S19977,2024-06-13,Personal Reasons,15000,Voluntary
+D01013,S04663,2025-12-18,Health,10000,Transfer
+D01014,S17937,2025-05-28,Personal Reasons,0,Institutional
+D01015,S08210,2025-11-15,Personal Reasons,10000,Institutional
+D01016,S12832,2026-01-01,Financial Issues,25000,Transfer
+D01017,S18132,2024-07-15,Health,10000,Transfer
+D01018,S16932,2026-05-22,Relocation,10000,Voluntary
+D01019,S10807,2024-06-28,Health,15000,Institutional
+D01020,S10629,2025-12-10,Financial Issues,15000,Voluntary
+D01021,S15772,2025-05-05,Personal Reasons,15000,Institutional
+D01022,S16866,2025-03-12,Academic Difficulty,10000,Transfer
+D01023,S10447,2025-03-03,Personal Reasons,25000,Transfer
+D01024,S12371,2024-09-11,Personal Reasons,0,Transfer
+D01025,S01124,2025-05-23,Health,0,Voluntary
+D01026,S06856,2024-11-02,Academic Difficulty,0,Transfer
+D01027,S19405,2024-11-22,Personal Reasons,25000,Institutional
+D01028,S01809,2024-12-07,Health,0,Voluntary
+D01029,S03892,2025-01-01,Health,5000,Institutional
+D01030,S08558,2026-02-03,Academic Difficulty,5000,Voluntary
+D01031,S17265,2026-04-16,Relocation,15000,Institutional
+D01032,S01044,2025-06-16,Academic Difficulty,10000,Voluntary
+D01033,S04593,2025-11-04,Health,15000,Transfer
+D01034,S18775,2024-09-05,Financial Issues,25000,Voluntary
+D01035,S06256,2025-05-01,Health,10000,Transfer
+D01036,S05650,2024-11-16,Financial Issues,25000,Voluntary
+D01037,S06205,2025-01-30,Financial Issues,5000,Voluntary
+D01038,S06486,2025-10-17,Academic Difficulty,15000,Voluntary
+D01039,S17836,2025-10-11,Personal Reasons,15000,Voluntary
+D01040,S13159,2024-10-05,Low Attendance,10000,Institutional
+D01041,S08075,2024-11-12,Personal Reasons,15000,Voluntary
+D01042,S07106,2025-03-21,Personal Reasons,25000,Institutional
+D01043,S16063,2026-05-04,Academic Difficulty,5000,Institutional
+D01044,S05951,2026-07-31,Academic Difficulty,15000,Transfer
+D01045,S03132,2024-11-20,Academic Difficulty,25000,Institutional
+D01046,S17414,2024-08-10,Relocation,15000,Institutional
+D01047,S13104,2026-07-13,Personal Reasons,10000,Transfer
+D01048,S17963,2024-07-04,Relocation,10000,Institutional
+D01049,S18869,2025-08-16,Financial Issues,15000,Transfer
+D01050,S05777,2025-04-18,Academic Difficulty,10000,Transfer
+D01051,S04224,2025-07-24,Academic Difficulty,15000,Institutional
+D01052,S08242,2025-06-29,Academic Difficulty,25000,Transfer
+D01053,S03422,2024-11-21,Financial Issues,25000,Institutional
+D01054,S07733,2024-06-14,Academic Difficulty,10000,Voluntary
+D01055,S06117,2024-12-10,Health,25000,Voluntary
+D01056,S01880,2026-01-30,Financial Issues,0,Transfer
+D01057,S17191,2024-10-17,Academic Difficulty,10000,Voluntary
+D01058,S00067,2025-03-15,Health,0,Transfer
+D01059,S18302,2025-08-08,Low Attendance,5000,Voluntary
+D01060,S02163,2025-07-13,Relocation,25000,Institutional
+D01061,S18707,2025-09-03,Financial Issues,5000,Transfer
+D01062,S11636,2026-04-24,Relocation,25000,Transfer
+D01063,S15909,2024-07-11,Financial Issues,15000,Transfer
+D01064,S02073,2026-05-03,Relocation,15000,Institutional
+D01065,S07665,2024-08-26,Personal Reasons,0,Institutional
+D01066,S12452,2025-02-14,Personal Reasons,0,Institutional
+D01067,S18272,2025-09-25,Personal Reasons,10000,Transfer
+D01068,S01391,2026-06-27,Personal Reasons,10000,Institutional
+D01069,S03751,2025-02-10,Personal Reasons,0,Voluntary
+D01070,S01762,2026-05-10,Financial Issues,5000,Voluntary
+D01071,S03100,2025-11-11,Health,0,Institutional
+D01072,S06671,2026-06-19,Financial Issues,25000,Institutional
+D01073,S04729,2024-10-25,Relocation,25000,Institutional
+D01074,S06124,2025-02-16,Low Attendance,15000,Voluntary
+D01075,S10649,2025-12-07,Financial Issues,0,Voluntary
+D01076,S07090,2024-06-05,Financial Issues,15000,Transfer
+D01077,S19243,2026-08-14,Relocation,0,Institutional
+D01078,S15595,2026-09-07,Academic Difficulty,0,Voluntary
+D01079,S01464,2025-07-01,Health,25000,Transfer
+D01080,S01054,2025-08-15,Personal Reasons,15000,Voluntary
+D01081,S14897,2026-04-08,Health,15000,Institutional
+D01082,S15350,2024-06-28,Health,5000,Institutional
+D01083,S19652,2025-06-07,Financial Issues,15000,Transfer
+D01084,S11542,2025-08-12,Academic Difficulty,0,Transfer
+D01085,S13391,2026-07-05,Low Attendance,15000,Transfer
+D01086,S03577,2024-12-04,Personal Reasons,0,Transfer
+D01087,S15850,2026-07-07,Academic Difficulty,25000,Transfer
+D01088,S09365,2025-06-06,Health,0,Transfer
+D01089,S03018,2024-12-01,Low Attendance,10000,Institutional
+D01090,S01492,2025-12-13,Health,5000,Voluntary
+D01091,S18462,2025-02-15,Financial Issues,10000,Voluntary
+D01092,S06713,2026-03-23,Academic Difficulty,25000,Institutional
+D01093,S11567,2025-09-15,Financial Issues,15000,Institutional
+D01094,S15963,2025-09-03,Health,0,Voluntary
+D01095,S16179,2025-05-09,Low Attendance,10000,Institutional
+D01096,S07109,2025-08-29,Personal Reasons,25000,Voluntary
+D01097,S18344,2024-07-24,Health,25000,Transfer
+D01098,S15633,2025-10-23,Financial Issues,0,Transfer
+D01099,S17749,2024-07-09,Financial Issues,0,Transfer
+D01100,S13865,2025-08-01,Financial Issues,0,Institutional
+D01101,S08018,2025-09-07,Health,10000,Institutional
+D01102,S05258,2025-10-23,Relocation,10000,Transfer
+D01103,S11828,2025-11-20,Academic Difficulty,15000,Institutional
+D01104,S00665,2025-04-19,Financial Issues,5000,Transfer
+D01105,S14641,2025-03-12,Financial Issues,0,Institutional
+D01106,S02314,2025-08-10,Academic Difficulty,25000,Institutional
+D01107,S08927,2025-01-25,Personal Reasons,10000,Transfer
+D01108,S11054,2025-06-03,Health,5000,Transfer
+D01109,S04419,2025-09-03,Health,10000,Transfer
+D01110,S10397,2024-10-31,Personal Reasons,5000,Institutional
+D01111,S11715,2025-06-01,Low Attendance,15000,Voluntary
+D01112,S08907,2025-05-02,Relocation,15000,Transfer
+D01113,S17337,2025-06-15,Health,5000,Institutional
+D01114,S01861,2026-05-22,Health,0,Transfer
+D01115,S03530,2024-11-06,Relocation,15000,Institutional
+D01116,S02082,2025-06-06,Relocation,10000,Voluntary
+D01117,S18726,2024-11-21,Academic Difficulty,0,Transfer
+D01118,S01094,2024-08-28,Personal Reasons,10000,Institutional
+D01119,S07245,2025-05-21,Low Attendance,0,Institutional
+D01120,S10047,2026-04-12,Low Attendance,15000,Voluntary
+D01121,S11079,2025-06-07,Low Attendance,10000,Institutional
+D01122,S03440,2025-12-25,Low Attendance,15000,Institutional
+D01123,S00411,2024-11-25,Academic Difficulty,10000,Transfer
+D01124,S06346,2026-07-22,Relocation,15000,Transfer
+D01125,S15550,2026-04-09,Relocation,5000,Institutional
+D01126,S13912,2025-12-06,Low Attendance,10000,Transfer
+D01127,S11990,2025-11-30,Academic Difficulty,0,Transfer
+D01128,S07883,2025-11-28,Academic Difficulty,10000,Voluntary
+D01129,S04965,2025-11-13,Low Attendance,25000,Transfer
+D01130,S07761,2025-03-22,Academic Difficulty,15000,Transfer
+D01131,S10551,2024-12-17,Low Attendance,5000,Voluntary
+D01132,S15287,2025-02-05,Academic Difficulty,25000,Institutional
+D01133,S18622,2025-12-06,Health,0,Transfer
+D01134,S06275,2025-11-30,Low Attendance,25000,Institutional
+D01135,S00947,2024-12-29,Relocation,5000,Voluntary
+D01136,S14124,2025-10-16,Relocation,10000,Transfer
+D01137,S09937,2024-06-05,Financial Issues,10000,Institutional
+D01138,S12296,2024-10-24,Low Attendance,0,Institutional
+D01139,S19983,2025-05-26,Personal Reasons,10000,Institutional
+D01140,S11181,2025-11-21,Health,10000,Institutional
+D01141,S02981,2026-02-09,Relocation,10000,Transfer
+D01142,S18232,2024-08-09,Health,5000,Institutional
+D01143,S00446,2026-01-25,Personal Reasons,5000,Transfer
+D01144,S00339,2025-03-04,Low Attendance,5000,Voluntary
+D01145,S03709,2026-04-21,Relocation,10000,Institutional
+D01146,S18246,2024-07-11,Low Attendance,10000,Institutional
+D01147,S11998,2024-11-12,Relocation,10000,Transfer
+D01148,S09720,2025-12-19,Health,10000,Institutional
+D01149,S01937,2025-08-06,Personal Reasons,25000,Institutional
+D01150,S11167,2026-09-28,Relocation,15000,Voluntary
+D01151,S13930,2025-02-25,Academic Difficulty,5000,Transfer
+D01152,S04199,2024-12-26,Academic Difficulty,25000,Voluntary
+D01153,S02855,2025-08-17,Relocation,25000,Voluntary
+D01154,S08616,2026-04-25,Personal Reasons,10000,Voluntary
+D01155,S09953,2026-09-08,Personal Reasons,5000,Institutional
+D01156,S09443,2025-11-22,Academic Difficulty,25000,Institutional
+D01157,S12175,2025-12-03,Financial Issues,0,Institutional
+D01158,S06399,2025-11-20,Academic Difficulty,10000,Voluntary
+D01159,S03973,2026-03-08,Health,10000,Transfer
+D01160,S12429,2024-11-05,Financial Issues,15000,Institutional
+D01161,S10740,2026-06-15,Personal Reasons,5000,Institutional
+D01162,S13193,2026-06-30,Personal Reasons,0,Transfer
+D01163,S10400,2025-07-03,Financial Issues,5000,Transfer
+D01164,S18489,2025-01-10,Relocation,10000,Institutional
+D01165,S06413,2024-07-23,Financial Issues,5000,Transfer
+D01166,S13137,2025-05-04,Relocation,25000,Transfer
+D01167,S07734,2024-12-03,Academic Difficulty,10000,Voluntary
+D01168,S05345,2025-06-27,Financial Issues,15000,Transfer
+D01169,S17156,2025-12-23,Low Attendance,0,Institutional
+D01170,S19429,2025-05-25,Health,5000,Transfer
+D01171,S13526,2025-07-02,Relocation,25000,Transfer
+D01172,S00955,2026-01-31,Academic Difficulty,15000,Voluntary
+D01173,S06121,2024-11-16,Academic Difficulty,15000,Institutional
+D01174,S07158,2024-06-09,Financial Issues,0,Transfer
+D01175,S05610,2025-10-03,Health,10000,Transfer
+D01176,S05532,2026-01-28,Low Attendance,10000,Institutional
+D01177,S03391,2026-07-03,Low Attendance,0,Transfer
+D01178,S18727,2024-12-09,Health,5000,Voluntary
+D01179,S13405,2025-08-17,Academic Difficulty,10000,Institutional
+D01180,S09070,2026-08-03,Low Attendance,5000,Voluntary
+D01181,S10965,2026-08-28,Academic Difficulty,25000,Voluntary
+D01182,S13478,2024-11-09,Academic Difficulty,25000,Transfer
+D01183,S02744,2024-10-28,Low Attendance,10000,Transfer
+D01184,S17112,2024-07-22,Health,5000,Transfer
+D01185,S07030,2024-06-13,Financial Issues,5000,Voluntary
+D01186,S17546,2026-04-02,Personal Reasons,5000,Voluntary
+D01187,S00103,2025-06-29,Health,5000,Institutional
+D01188,S10261,2025-11-03,Financial Issues,5000,Voluntary
+D01189,S03211,2025-11-18,Low Attendance,10000,Transfer
+D01190,S04542,2024-09-20,Health,10000,Voluntary
+D01191,S17842,2025-10-06,Personal Reasons,5000,Transfer
+D01192,S07619,2024-07-08,Health,10000,Institutional
+D01193,S01080,2026-02-18,Relocation,15000,Voluntary
+D01194,S18991,2024-06-06,Financial Issues,10000,Institutional
+D01195,S03911,2024-08-18,Health,25000,Transfer
+D01196,S07266,2025-05-18,Health,10000,Transfer
+D01197,S02934,2025-09-10,Academic Difficulty,15000,Institutional
+D01198,S19710,2025-01-14,Health,5000,Voluntary

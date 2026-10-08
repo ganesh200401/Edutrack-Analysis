@@ -1,0 +1,51 @@
+Course_ID,Course_Name,Department,Duration_Months,Course_Fee,Delivery_Mode,Course_Status
+C001,Course 01,Arts,24,75000,Hybrid,Inactive
+C002,Course 02,Business,3,100000,Offline,Active
+C003,Course 03,Arts,6,35000,Hybrid,Active
+C004,Course 04,Computer Science,6,25000,Online,Inactive
+C005,Course 05,Computer Science,3,100000,Hybrid,Active
+C006,Course 06,Business,3,15000,Hybrid,Active
+C007,Course 07,Engineering,24,25000,Hybrid,Active
+C008,Course 08,Computer Science,9,35000,Hybrid,Active
+C009,Course 09,Arts,18,50000,Offline,Inactive
+C010,Course 10,Engineering,3,35000,Online,Active
+C011,Course 11,Engineering,6,100000,Offline,Active
+C012,Course 12,Arts,6,75000,Online,Active
+C013,Course 13,Data Analytics,12,35000,Online,Active
+C014,Course 14,Arts,3,50000,Offline,Active
+C015,Course 15,Data Analytics,9,35000,Offline,Active
+C016,Course 16,Data Analytics,9,100000,Online,Active
+C017,Course 17,Computer Science,18,100000,Offline,Active
+C018,Course 18,Commerce,9,100000,Hybrid,Active
+C019,Course 19,Computer Science,18,100000,Hybrid,Active
+C020,Course 20,Engineering,24,15000,Offline,Active
+C021,Course 21,Commerce,3,100000,Hybrid,Active
+C022,Course 22,Computer Science,24,75000,Online,Active
+C023,Course 23,Data Analytics,24,50000,Offline,Active
+C024,Course 24,Data Analytics,6,35000,Offline,Active
+C025,Course 25,Computer Science,3,15000,Offline,Active
+C026,Course 26,Commerce,18,25000,Hybrid,Active
+C027,Course 27,Engineering,24,35000,Offline,Inactive
+C028,Course 28,Business,6,35000,Offline,Active
+C029,Course 29,Commerce,3,100000,Hybrid,Inactive
+C030,Course 30,Engineering,3,25000,Hybrid,Active
+C031,Course 31,Engineering,12,100000,Online,Active
+C032,Course 32,Arts,24,25000,Hybrid,Active
+C033,Course 33,Arts,18,15000,Offline,Active
+C034,Course 34,Data Analytics,6,100000,Offline,Active
+C035,Course 35,Computer Science,9,100000,Online,Active
+C036,Course 36,Arts,12,50000,Hybrid,Active
+C037,Course 37,Computer Science,12,35000,Online,Active
+C038,Course 38,Arts,3,75000,Hybrid,Active
+C039,Course 39,Commerce,6,35000,Online,Active
+C040,Course 40,Business,6,50000,Online,Active
+C041,Course 41,Arts,12,100000,Online,Active
+C042,Course 42,Computer Science,9,25000,Online,Active
+C043,Course 43,Computer Science,12,15000,Offline,Active
+C044,Course 44,Arts,3,35000,Hybrid,Active
+C045,Course 45,Data Analytics,9,25000,Hybrid,Active
+C046,Course 46,Business,18,50000,Offline,Active
+C047,Course 47,Computer Science,6,75000,Offline,Active
+C048,Course 48,Business,24,75000,Offline,Active
+C049,Course 49,Engineering,6,75000,Offline,Active
+C050,Course 50,Engineering,18,25000,Offline,Active
